@@ -1,0 +1,60 @@
+
+
+.about-us-container {
+    text-align: center;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    max-width: 800px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-image: url('../cats/Boltu2.jpg');
+    background-size: auto;
+    height: 90rem;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    box-shadow: 0px 1px 0px 0px rgb(187 53 53 / 10%);
+}
+
+  
+  
+  
+  
+  .about-us-container p {
+    
+    line-height: 1.6;
+    color: #ffffff;
+font-family: monospace;
+font-size: 1.7rem;
+    margin-top: 5rem;
+    text-shadow: -7px 5px 4px rgb(0 0 0 / 100%)
+  }
+  
+  .about-us-image {
+    width: 100%;
+    margin-top: 1.5rem;
+    border-radius: 8px;
+  }
+  .contentAboutUs{
+    margin-top: 3em;
+    line-height: 5px;
+    color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .contentTop{
+    color: #000000;
+    border-style: double;
+    border-width: thick;
+    border-color: #000000;
+    text-emphasis: triangle;
+    text-decoration-line: overline;
+    background: linear-gradient(90deg, #e7c7cc, #ff6e6e);
+
+  }
